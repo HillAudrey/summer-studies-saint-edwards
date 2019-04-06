@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+    margin: 0px;
+    overflow-x: hidden;
+}
+
+#header {
+    background-color: navy;
+    color: white;
+    text-align: center;
+    padding: 30px;
+    font-size: 48px;
+    margin-top: 10px;
+    letter-spacing: 4px;
+    position: relative;
+}
+
+#subheader {
+    text-align: center;
+}
+
+#textwall {
+    margin: 10px;
+}
